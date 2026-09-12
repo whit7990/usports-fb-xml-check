@@ -9,7 +9,8 @@ This Colab validates a Football XML file from either Presto or Stats Crew. It ca
 - View the XML_Play_Validator.ipynb in Github and it will have a link to Open in Colab in the upper left
 - Click Connect in the upper right
 - Click Run All in the top bar
-- You will be prompted in the first cell to upload the XML. Select the XMl file in question and click upload
+  - You may be prompted with a warning that the Colab will have access to your Google resources. Click Run Anways. The Colab only accesses the XML file.
+- You will be prompted in the first cell to upload the XML. Click Choose File and select the XML file in question and click upload.
 - Wait for the process to complete and scroll to the bottom
 - In the last cell there will be a report that you can review with the issues detected
 
