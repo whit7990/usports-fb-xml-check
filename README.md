@@ -5,14 +5,16 @@ This Colab validates a Football XML file from either Presto or Stats Crew. It ca
 
 ## Usage
 
-- You should be logged in with a Google specific account (ie gmail)
-- View the XML_Play_Validator.ipynb in Github and it will have a link to Open in Colab in the upper left
-- Click Connect in the upper right
-- Click Run All in the top bar
-  - You may be prompted with a warning that the Colab will have access to your Google resources. Click Run Anways. The Colab only accesses the XML file.
-- You will be prompted in the first cell to upload the XML. Click Choose File and select the XML file in question and click upload.
-- Wait for the process to complete and scroll to the bottom
-- In the last cell there will be a report that you can review with the issues detected
+1. You should be logged in with a Google specific account (ie gmail)
+1. View the XML_Play_Validator.ipynb in Github and it will have a link to Open in Colab in the upper left
+1. Click Connect in the upper right
+1. Click Run All in the top bar
+     - You may be prompted with a warning that the Colab will have access to your Google resources. Click Run Anways. The Colab only accesses the XML file.
+1. You will be promoted to copy/paste the home and away rosters. You can use the printable versions from each team's website.
+      - This should work for Sidearm schools, but may have issues for other prinatable rosters.
+1. You will be prompted in the first cell to upload the XML. Click Choose File and select the XML file in question and click upload.
+1. Wait for the process to complete and scroll to the bottom
+1. In the last cell there will be a report that you can review with the issues detected
 
 ## What it does:
 
