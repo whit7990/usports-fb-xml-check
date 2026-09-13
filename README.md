@@ -10,7 +10,7 @@ This Colab validates a Football XML file from either Presto or Stats Crew. It ca
 1. Click Connect in the upper right
 1. Click Run All in the top bar
      - You may be prompted with a warning that the Colab will have access to your Google resources. Click Run Anways. The Colab only accesses the XML file.
-1. You will be promoted to copy/paste the home and away rosters. You can use the printable versions from each team's website.
+1. You will be promoted to upload a .txt file for visitor and home rosters. You can use the printable versions from each team's website and copy it into a text file. You should be able to just ctrl+A (select all) and then ctrl+v (paste) the content into the text file.
       - This should work for Sidearm schools, but may have issues for other prinatable rosters.
 1. You will be prompted in the first cell to upload the XML. Click Choose File and select the XML file in question and click upload.
 1. Wait for the process to complete and scroll to the bottom
